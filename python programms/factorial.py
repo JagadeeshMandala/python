@@ -4,5 +4,5 @@ if num<=0:
     print("please enter the positive number")
 else:
     for i in range(1,num+1):
-        factorial*=i
+        
     print(factorial)        
